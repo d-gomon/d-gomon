@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @d-gomon
 - 👀 I’m interested in Methodological Statistics
 - 🌱 I’m currently learning about Continuous time CUSUM procedures to monitor the quality of care.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at d.gomon@math.leidenuniv.nl
 
 <!---
